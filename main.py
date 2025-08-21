@@ -3,7 +3,7 @@
 """
 Created on Wed Dec 13 09:14:36 2023
 
-@author: felix
+@author: felix, baard
 """
 from params_sys import Tamb, Tamb_left, Tamb_right
 import params_LFP
